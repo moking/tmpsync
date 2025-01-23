@@ -1,0 +1,3 @@
+$4 = 0x55555559aea0 "/sys/devices/platform/ACPI0017:00/root0/nvdimm-bridge0/ndbus0/region0/namespace0.0/size"
+$5 = 536870912
+4928		if (rc < 0)
